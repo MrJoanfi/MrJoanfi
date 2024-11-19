@@ -10,7 +10,7 @@ Hello world
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
 
-I'm **`MrrJoanfi`** an 23 y.o. Software engineer student
+I'm **`MrrJoanfi`** an 19 y.o. Software engineer student
 
 - 👀 Currently learning C#, Unity
 - 🐍 **Python**
