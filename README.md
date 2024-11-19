@@ -1,16 +1,17 @@
-## Hi there 👋
+# MrrJoanfi
+Hello world
 
-<!--
-**MrJoanfi/MrJoanfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- TODO: Add class that explains all the tools you use -->
 
-Here are some ideas to get you started:
+<!-- <a target="blank"><img align="left" src="./assets/patric1.gif" /></a> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋
+
+<!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
+
+
+I'm **`MrrJoanfi`** an 23 y.o. Software engineer student
+
+- 👀 Currently learning C#, Unity
+- 🐍 **Python**
+- 📫 How to reach me **soon**
